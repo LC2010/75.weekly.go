@@ -40,7 +40,6 @@ func startUp() {
 }
 
 func main() {
-
 	fmt.Println(ansi.Color("欢迎使用奇舞周刊命令行, 请按照提示信息输入周刊信息", "red+b"))
 	startUp()
 }
